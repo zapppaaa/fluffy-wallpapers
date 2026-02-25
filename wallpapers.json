@@ -1,5 +1,5 @@
 {
-  "Wallpapers": [
+  "wallpapers": [
     {
       "name": "Fluffy Wall 1",
       "author": "Fluffy 3D",
@@ -11,42 +11,6 @@
       "author": "Fluffy 3D",
       "url": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_2.png",
       "thumbUrl": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_2.png"
-    },
-    {
-      "name": "Fluffy Wall 3",
-      "author": "Fluffy 3D",
-      "url": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_3.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_3.jpg"
-    },
-    {
-      "name": "Fluffy Wall 4",
-      "author": "Fluffy 3D",
-      "url": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_4.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_4.jpg"
-    },
-    {
-      "name": "Fluffy Wall 5",
-      "author": "Fluffy 3D",
-      "url": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_5.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_5.jpg"
-    },
-    {
-      "name": "Fluffy Wall 6",
-      "author": "Fluffy 3D",
-      "url": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_6.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_6.jpg"
-    },
-    {
-      "name": "Fluffy Wall 7",
-      "author": "Fluffy 3D",
-      "url": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_7.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_7.jpg"
-    },
-    {
-      "name": "Fluffy Wall 8",
-      "author": "Fluffy 3D",
-      "url": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_8.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/zapppaaa/fluffy-wallpapers/main/pic_8.jpg"
     }
   ]
 }
